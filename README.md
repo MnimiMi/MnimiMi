@@ -2,7 +2,7 @@
 
 Frontend developer & freelancer based in Aberdeen, Scotland. I build websites and web apps — currently finishing my HND and heading into university. 
 
-🌐 Portfolio: [baldcat.dev](https://www.baldcat.dev/)
+🌐 Portfolio: [Mnimi&Baldcat.dev](https://www.baldcat.dev/)
 🔮 Pet project: [tell.guru](https://tell.guru)
 
 ---
@@ -48,7 +48,7 @@ Frontend developer & freelancer based in Aberdeen, Scotland. I build websites an
 
 | Project | What it is | Stack |
 |---|---|---|
-| [baldcatdev](https://github.com/MnimiMi/baldcatdev) | AI tarot & rune readings — live at [tell.guru](https://tell.guru) | Python · FastAPI · Vue 3 · Aiogram · Docker |
+| [tellguru-backend](https://github.com/MnimiMi/tellguru-backend) | AI tarot & rune readings — live at [tell.guru](https://tell.guru) | Python · FastAPI · Vue 3 · Aiogram · Docker |
 | [skin_therapist_website](https://github.com/MnimiMi/skin_therapist_website) | Full-stack booking platform for a beauty salon | Vue 3 · PHP · Strapi · Stripe |
 | [medicare-portal](https://github.com/MnimiMi/medicare-portal) | Role-based hospital dashboard prototype | Vue 3 · Chart.js · Pinia |
 | [SmartStockAnalyst](https://github.com/MnimiMi/SmartStockAnalyst) | Inventory management desktop app with AI analysis | Java · JavaFX · PostgreSQL · OpenAI |
