@@ -2,7 +2,7 @@
 
 Fullstack developer based in Aberdeen, Scotland. I build and deploy production web apps — Vue 3 + FastAPI + Docker — not just templates.
 
-🌐 [Mnimi&Baldcat.dev](https://www.baldcat.dev/) · 🔮 [tell.guru](https://tell.guru) · 📩 mnimi.baldcat@gmail.com
+🌐 [Mnimi&Baldcat.dev](https://www.baldcat.dev/) · 🔮 [tell.guru](https://tell.guru) · 💼 [LinkedIn](https://www.linkedin.com/in/vlada-yermakova-dev/) · 📩 mnimi.baldcat@gmail.com
 
 ---
 
