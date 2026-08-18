@@ -1,8 +1,11 @@
 # Hi, I'm Vlada 👋
 
-Fullstack developer based in Aberdeen, Scotland. I build and deploy production web apps — Vue 3 + FastAPI + Docker — not just templates.
+Fullstack developer based in Scotland. I build and deploy production web apps — Vue 3 · FastAPI · Spring Boot · Docker — not just templates.
 
-🌐 [Mnimi&Baldcat.dev](https://www.baldcat.dev/) · 🔮 [tell.guru](https://tell.guru) · 💼 [LinkedIn](https://www.linkedin.com/in/vlada-yermakova-dev/) · 📩 mnimi.baldcat@gmail.com
+💼 Open to remote part-time work, placements and graduate roles
+🎓 Currently studying at Robert Gordon University.
+
+🌐 [Mnimi&Baldcat.dev](https://www.baldcat.dev/) · 🔮 [tell.guru](https://tell.guru) · 📩 mnimi.baldcat@gmail.com
 
 ---
 
@@ -23,12 +26,19 @@ Stack: Vue 3 · PHP · Strapi CMS · Stripe · Cal.com
 
 🔮 **[tell.guru](https://tell.guru)** — AI-powered tarot & rune readings across a Telegram bot and web app, one shared FastAPI backend. Passwordless magic-link auth with HttpOnly sessions, race-safe daily quotas (atomic Mongo upserts), rate limiting keyed on real client IP behind a proxy, OpenAI budget cap as an abuse backstop.
 Stack: Python · FastAPI · Vue 3 · Aiogram · MongoDB · Docker · Traefik · Stripe
+[showcase](https://github.com/MnimiMi/tellguru-showcase)
 
 🍺 **[PullMyBeer](https://beer.tell.guru)** — same architecture, playful twist: AI "beer prophecies" shaped by location, live weather and time of day. Stampede-guarded geolocation cache (LRU+TTL with in-flight de-duplication), unified identity model across bot/web/anonymous sessions.
 Stack: Python · FastAPI · Vue 3 · Aiogram · MongoDB · Docker · Traefik · Stripe
+[showcase](https://github.com/MnimiMi/pullmybeer-showcase)
+
+📌 **[Pin & Grin](https://pin-grin.tell.guru)** — interactive 3D voodoo doll in the browser: click the model and a pin sticks exactly where you clicked, oriented along the surface normal. Anonymous-first — the localStorage doll is claimed into a real account on first magic-link login. Refresh-token rotation with a grace window that tells a double-reload race from a stolen token, email encrypted at rest (AES-256-GCM) with a separate HMAC key for lookups, per-email and per-IP rate limits. All doll models are original 3D assets.
+Stack: Java 21 · Spring Boot · PostgreSQL · Flyway · Vue 3 · three.js/TresJS · Tailwind · Docker · Traefik
+[showcase](https://github.com/MnimiMi/pin-and-grin-showcase)
 
 ⌨️ **[OopsLayout](https://github.com/MnimiMi/OopsLayout)** — cross-platform keyboard-layout fixer (Windows + macOS), Punto Switcher-style but open source. Detects mis-typed layout with character-bigram language models instead of a dictionary. Windows backend uses a global Win32 hook + SendInput; the native macOS port (Swift) uses CGEventTap and TISSelectInputSource, ships as a signed, notarization-ready universal binary.
 Stack: C# · Swift · WinForms · AppKit
+[releases: Windows · macOS](https://github.com/MnimiMi/OopsLayout/releases)
 
 ---
 
@@ -58,6 +68,8 @@ Stack: C# · Swift · WinForms · AppKit
 
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-437291?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-FF4500?logo=traefikproxy&logoColor=white)
@@ -70,6 +82,9 @@ Stack: C# · Swift · WinForms · AppKit
 
 **Also working with**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+
+---
+
+
